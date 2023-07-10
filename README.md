@@ -1,2 +1,2 @@
 # quiz
-bible quiz questions
+bible quiz questions developed using C program
